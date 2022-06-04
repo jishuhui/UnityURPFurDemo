@@ -128,6 +128,7 @@ public class FurRenderFeature : ScriptableRendererFeature
         {
         }
     }
+    
     public PassSettings settings = new PassSettings();
     FurRenderPass m_ScriptablePass;
 
